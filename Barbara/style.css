@@ -1,0 +1,14 @@
+h1 { 
+    color: blue; 
+    font-size: 16px; 
+    text-align: justify; 
+} 
+  
+IMG { 
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+    display: flex; 
+    justify-content: space-between; 
+    width: 80%; 
+} 
